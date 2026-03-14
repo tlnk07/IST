@@ -1,0 +1,10 @@
+# Internet Speed Test App Requirements
+
+# GUI Framework
+customtkinter==5.2.2
+
+# Speed Test Library
+speedtest-cli==2.1.3
+
+# Optional: For accurate speed test (fallback)
+pyspeedtest==1.2.7
